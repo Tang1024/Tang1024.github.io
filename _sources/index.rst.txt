@@ -1,9 +1,28 @@
-**********************
-tang1024.github.io WIP
-**********************
-`School of EECS, OSU <https://eecs.oregonstate.edu/>`_
+*******************************
+Jian Tang's Github Pages (WIP)
+*******************************
 
+`Github Repositories <https://github.com/tang1024?tab=repositories>`_
+
+Github Pages
+============
 `Tonal Harmony </tonal-harmony/>`_
+
+Repo
+====
+`music-resource <https://github.com/tang1024/music-resource>`_
+
+...
+
+WIP
+===
+notebook
+
+notes-realtime-rendering
+
+vista
+
+...
 
 Indices and tables
 ==================
@@ -14,4 +33,6 @@ Indices and tables
 
 ------------------
 
-`tang1024.github.io <https://tang1024.github.io/>`_
+`View source code on Github <https://github.com/tang1024/tang1024.github.io>`_
+
+`Homepage <https://tang1024.github.io/>`_
