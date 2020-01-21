@@ -1,0 +1,17 @@
+**********************
+tang1024.github.io WIP
+**********************
+`School of EECS, OSU <https://eecs.oregonstate.edu/>`_
+
+`Tonal Harmony </tonal-harmony/>`_
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
+------------------
+
+`tang1024.github.io <https://tang1024.github.io/>`_
