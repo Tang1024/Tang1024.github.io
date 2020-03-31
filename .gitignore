@@ -1,0 +1,26 @@
+#_static
+#_templates
+
+#make.bat
+#Makefile
+
+##########################
+# build
+##########################
+docs
+_build
+build
+build_html
+build_latex
+
+##########################
+# Editor: clion, VS
+##########################
+.idea
+.vs
+.vscode
+
+##########################
+# Git
+##########################
+.git
