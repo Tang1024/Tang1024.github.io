@@ -22,6 +22,11 @@ Github Pages
 
 ------------------
 
+- Diablo
+    - `devilutionX </devilutionX>`_
+
+------------------
+
 - `Music Resources </music-resources>`_
 - `Notes for History of Western Music </notes-hwm>`_
 - `Tonal Harmony </tonal-harmony>`_
