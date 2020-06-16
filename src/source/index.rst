@@ -1,16 +1,9 @@
-*********
-Home Page
-*********
-
+Github Repo
+===========
 - `Github Repositories <https://github.com/tang1024?tab=repositories>`_
-- `Notes for Open Source <https://github.com/tang1024/notes-opensource>`_
 
 Github Pages
 ============
-- `Notes for Real-Time Rendering, Fourth Edition </notes-realtime-rendering>`_
-
-------------------
-
 - Quake I
     - `Quake Book </quake-book>`_
 - Quake II
@@ -27,19 +20,9 @@ Github Pages
 
 ------------------
 
-- `Music Resources </music-resources>`_
-- `Notes for History of Western Music </notes-hwm>`_
-- `Tonal Harmony </tonal-harmony>`_
-- `Notes for Piano </notes-piano>`_
-
-Repo
-====
-- `vflecs <https://github.com/tang1024/vflecs>`_
-
-----------
+- `Notes for Open Source <https://github.com/tang1024/notes-opensource>`_
 
 Indices and tables
 ==================
-
 * :ref:`genindex`
 * :ref:`search`
